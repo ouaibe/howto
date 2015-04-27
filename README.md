@@ -1,4 +1,4 @@
-# Howto's, guides & other configuration notes.
+# Howtos, guides & other configuration notes.
 
 ####Because why start a blog when you can markdown ?
 
