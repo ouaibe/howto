@@ -4,7 +4,7 @@
 Here are the currently available documents :
 
 
-[OpenWRT : Migrating a 2-Drive RaidZ-1 to a Mirror Configuration](802.1xOnOpenWRTUsingFreeRadius.md)
+[OpenWRT : 802.1x EAP-TLS using Free Radius & OpenSSL CA](802.1xOnOpenWRTUsingFreeRadius.md)
 
 
 
