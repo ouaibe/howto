@@ -11,3 +11,4 @@ Here are the currently available documents :
 
 [ZFS](./ZFS/)
 
+[HomeAssistant](./HomeAssistant/)
